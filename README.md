@@ -1,2 +1,2 @@
 # dtmoney
-App ReactJS de gerencia financeira criado no ignite da Rocketseat
+App ReactJS de gerência financeira criado no ignite da Rocketseat
